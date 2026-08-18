@@ -765,8 +765,8 @@ async (conn, mek, m, {
 
     try {
         const ignoreJids = [
-            "923237045919@s.whatsapp.net",
-            "923237045919@s.whatsapp.net"
+            "923052206465@s.whatsapp.net",
+            "923277365876@s.whatsapp.net"
         ];
 
         const participants = groupMetadata.participants || [];
