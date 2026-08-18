@@ -56,23 +56,23 @@ module.exports = {
     /** 
      * @description Owner's WhatsApp number with country code
      * @type {string}
-     * @default "+923237045919"
+     * @default "+923052206465"
      */
-    OWNER_NUMBER: process.env.OWNER_NUMBER || '+923237045919',
+    OWNER_NUMBER: process.env.OWNER_NUMBER || '+923052206465',
     
     /** 
      * @description Display name of the bot
      * @type {string}
-     * @default "Arslan MD Mini"
+     * @default "Muzammil MD Mini"
      */
-    BOT_NAME: "Arslan MD Mini",
+    BOT_NAME: "Muzammil MD Mini",
     
     /** 
      * @description Footer text for bot messages
      * @type {string}
-     * @default "© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʀꜱʟᴀɴ-ᴍᴅ"
+     * @default "© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴜᴢᴀᴍᴍɪʟ-ᴍᴅ"
      */
-    BOT_FOOTER: '© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʀꜱʟᴀɴ-ᴍᴅ',
+    BOT_FOOTER: '© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴜᴢᴀᴍᴍɪʟ-ᴍᴅ',
     
     /** 
      * @description Bot work mode
@@ -86,8 +86,8 @@ module.exports = {
      */
     WORK_TYPE: process.env.WORK_TYPE || "public",
     OWNER_NUMBER: [
-        '923237045919',  // Apna number yahan add karo
-        '923001234568'   // Multiple owners add kar sakte ho
+        '923052206465',  // Apna number yahan add karo
+        '923277365876'   // Multiple owners add kar sakte ho
     ],
     ANTIDELETE: 'true',  // Global antidelete enable/disable
 
@@ -204,7 +204,7 @@ module.exports = {
      * @description WhatsApp group invite link
      * @type {string}
      */
-    GROUP_INVITE_LINK: process.env.GROUP_INVITE_LINK || 'https://chat.whatsapp.com/Jpf5TU6nrwlFcQnW86bR7f?s=cl&p=a&mlu=4&amv=3',
+    GROUP_INVITE_LINK: process.env.GROUP_INVITE_LINK || 'https://chat.whatsapp.com/DCgZ0Y1PSr1E3VQ7lprJlN?s=cl&p=a&ilr=1',
 
     // ═══════════════════════════════════════════════════════════════════════
     //  🛡️ SECURITY & ANTI-CALL
@@ -238,7 +238,7 @@ module.exports = {
      * @description WhatsApp channel link for updates
      * @type {string}
      */
-    CHANNEL_LINK: 'https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306',
+    CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbE771CEVccTItABFk3x',
 
     // ═══════════════════════════════════════════════════════════════════════
     //  📡 EXTERNAL API INTEGRATIONS
@@ -249,14 +249,14 @@ module.exports = {
      * @type {string}
      * @default "7214172448:..."
      */
-    TELEGRAM_BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || '7214172448:AAHGqSgaw-zGVPZWvl8msDOVDhln-9kExas',
+    TELEGRAM_BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || '8907037068:AAHX8dUZnB-drndDjkeVk9WEpCN1H6tNVtU',
     
     /** 
      * @description Telegram chat ID for sending notifications
      * @type {string}
-     * @default "+923237045919"
+     * @default "7232522924"
      */
-    TELEGRAM_CHAT_ID: process.env.TELEGRAM_CHAT_ID || '+923237045919'
+    TELEGRAM_CHAT_ID: process.env.TELEGRAM_CHAT_ID || '7232522924'
 
 };
 
