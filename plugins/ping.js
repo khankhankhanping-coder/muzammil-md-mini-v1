@@ -38,7 +38,7 @@ cmd({
           key: msg.key,
           type: 14,
           editedMessage: {
-            conversation: `*👑 SPEED :❯ ${ping} 👑*`
+            conversation: `*👑 Zammlie's SPEED :❯ ${ping} 👑*`
           }
         }
       }, {});
