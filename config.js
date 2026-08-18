@@ -232,7 +232,7 @@ module.exports = {
      * @description Default bot profile image path/URL
      * @type {string}
      */
-    IMAGE_PATH: 'https://files.catbox.moe/prkkzj.png',
+    IMAGE_PATH: 'https://files.catbox.moe/ekketh.jpg',
     
     /** 
      * @description WhatsApp channel link for updates
